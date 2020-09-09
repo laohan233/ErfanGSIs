@@ -19,8 +19,8 @@ cd ErfanGSIs
     bash setup.sh
 
 ### Generating GSI from stock firmware URL
-Example: for making OxygenOS of oneplus 7 pro firmware, you can use this command
+Example: for making  MIUI Redmi note7 pro firmware, you can use this command
 ```
-./url2GSI.sh https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.O.07_OTA_007_all_1905120542_fc480574576b4843.zip OxygenOS
+./url2GSI.sh http://bigota.d.miui.com/V12.0.2.0.QFHCNXM/miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip MIUI
 ```
 check url2GSI.sh for more info
