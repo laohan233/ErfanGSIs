@@ -19,7 +19,7 @@ cd ErfanGSIs
     bash setup.sh
 
 ### Generating GSI from stock firmware URL
-Example: for making  MIUI Redmi note7 pro firmware, you can use this command
+Example: for making  MIUI Redmi note 7 pro firmware, you can use this command
 ```
 ./url2GSI.sh http://bigota.d.miui.com/V12.0.2.0.QFHCNXM/miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip MIUI
 ```
